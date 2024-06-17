@@ -1,7 +1,7 @@
 .git/*
 .vs/*
 node_modules/*
-*node_modules*
+# *node_modules*
 doc_generator/**/*.js
 doc_generator/**/*.json
 tmp/*
